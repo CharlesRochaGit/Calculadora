@@ -47,7 +47,7 @@ Estou evoluindo meus conhecimentos em programação por meio de projetos prátic
 
 **Charles Rocha**
 
-- GitHub: [Charles19902207](https://github.com/Charles19902207)
+- GitHub: https://github.com/CharlesRochaGit
 
 ---
 
